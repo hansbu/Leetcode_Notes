@@ -1,4 +1,4 @@
-## Greedy
+## Greedy (35)
 
 Split Array into Consecutive Subsequences `贪婪：接龙优先`      
 Jump Game I (reach end?) `贪婪：双指针`                   
