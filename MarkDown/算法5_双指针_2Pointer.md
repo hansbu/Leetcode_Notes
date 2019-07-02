@@ -1,4 +1,4 @@
-## Two Pointer
+## Two Pointer (44)
 
 ### Linked List
 Linked List Cycle I `龟兔赛跑`                      
@@ -62,7 +62,9 @@ Minimum Size Subarray Sum $\ge k$ `window_sum`
 Swap Adjacent in LR String `L/R: people facing left/right`         
 **Intersection of Two Arrays I**                     
 **Intersection of Two Arrays II**                    
-**Implement strStr()**     **Merge Sorted Array**            **The smallest difference**              
+**Implement strStr()**     
+**Merge Sorted Array**            
+**The smallest difference**              
 
 
 
