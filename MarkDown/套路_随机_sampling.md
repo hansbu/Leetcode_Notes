@@ -1,4 +1,4 @@
-## Sampling
+## Sampling (6)
 ### Resavoir Sampling (Single Pass, Anytime Stop)
 ``` python
 bag[0:k] = reservoir[0:k]
