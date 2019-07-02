@@ -1,4 +1,4 @@
-## parentheses
+## parentheses (9)
 ``` python
 for i, c in enumerate(s):
     # stack entry can be i or c
