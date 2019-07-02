@@ -1,4 +1,4 @@
-## Rectangle
+## Rectangle (15)
 
 Valid Square `6对点：4条边，2条对角线`                              
 Construct the Rectangle with area A `开根号`                           
