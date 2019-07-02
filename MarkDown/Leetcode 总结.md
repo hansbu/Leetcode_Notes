@@ -63,10 +63,10 @@ S.add(value)
 S.remove(value)
 
 # queue
-from collections import deque
+`from collections import deque
 queue = deque()
 queue.append(value) # push
-queue.popleft()     # pop
+queue.popleft()     # pop `
 
 # stack
 stack = []
