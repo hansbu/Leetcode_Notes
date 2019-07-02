@@ -1,4 +1,4 @@
-## palindrome
+## palindrome (16)
 
 ### number, list
 Palindrome Linked List  `get_middle, reverse, compare`                  
