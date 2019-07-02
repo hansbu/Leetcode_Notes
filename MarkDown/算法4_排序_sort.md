@@ -1,4 +1,4 @@
-## Sort
+## Sort (15)
 ```python
 ## MergeSort ##
 def merge(nums, left, mid, right):
